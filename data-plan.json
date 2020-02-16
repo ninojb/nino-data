@@ -1,0 +1,38 @@
+[
+    {
+        "sobject": "Vehicle_Model__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Vehicle-Model.json"]
+    },
+	{
+        "sobject": "Vehicle_Part__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Vehicle-Parts.json"]
+    },
+    {
+        "sobject": "Business_Mechanic__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Business-Mechanic.json"]
+    },
+    {
+        "sobject": "Vehicle__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Vehicles.json"]
+    },
+	{
+        "sobject": "Expense__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Expenses.json"]
+    },
+	{
+        "sobject": "Expense_Line_Item__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Expense-Items.json"]
+    }
+]

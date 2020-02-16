@@ -1,0 +1,469 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@MITRE10POLAND"
+            },
+            "Name": "Mitre10 Poland Rd",
+            "Type__c": "Store",
+            "Website__c": "https://www.mitre10.co.nz",
+            "Street__c": "15 Poland Road, Glenfield",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@VANTAGERV"
+            },
+            "Name": "Vantage RV",
+            "Type__c": "Store",
+            "Website__c": "https://www.vantagerv.nz",
+            "Street__c": "7 Peters Way Silverday",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 932,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@SULCO"
+            },
+            "Name": "Sulco",
+            "Type__c": "Store",
+            "Website__c": "http://www.sulco.co.nz",
+            "Street__c": "1 Orb Avenue, Wiri, Manukau",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 2241,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BINDONS"
+            },
+            "Name": "Bindons",
+            "Type__c": "Store",
+            "Website__c": "http://bindons.co.nz",
+            "Street__c": "Corner Water St and Walton St",
+            "City__c": "Whangarei",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 140,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@ALIEXPRESS"
+            },
+            "Name": "AliExpress",
+            "Type__c": "Store",
+            "Website__c": "https://liexpress.com",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@SCA"
+            },
+            "Name": "Super Cheap Auto Wairu Park",
+            "Type__c": "Store",
+            "Website__c": "https://supercheapauto.co.nz",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@MOTOKA"
+            },
+            "Name": "Motoka",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "http://www.motoka.nz",
+            "Street__c": "378 Great South Road",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 1051,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@SHOREPRESTIGE"
+            },
+            "Name": "Shore Prestige",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "https://www.shoreprestige.co.nz",
+            "Street__c": "Porana Business Park Unit 10, 77 Porana Road",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPTAUPO"
+            },
+            "Name": "BP Connect Taupo",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "48-50 Heuheu Street",
+            "City__c": "Taupo",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 3330,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@HEARTLAND"
+            },
+            "Name": "Heartland Bank Ltd",
+            "Type__c": "Insurer",
+            "Website__c": "",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@JUST4X4"
+            },
+            "Name": "Just 4x4's",
+            "Type__c": "Store",
+            "Website__c": "",
+            "Street__c": "116 Stone Wall Rise, Rd 9 Maungatapere",
+            "City__c": "Whangarei",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 179,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPCARYLE"
+            },
+            "Name": "BP 2GO Caryle",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "60 Caryle Street",
+            "City__c": "Napier",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@REPCO"
+            },
+            "Name": "Repco",
+            "Type__c": "Store",
+            "Website__c": "https://www.repco.co.nz",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPMILLWATER"
+            },
+            "Name": "BP Connect Millwater",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPBOULEVARD"
+            },
+            "Name": "BP Connect Boulevard",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "468 Great South Road Greenlane",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 1051,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BUNNINGSNS"
+            },
+            "Name": "Bunnings Warehouse North Shore",
+            "Type__c": "Store",
+            "Website__c": "http://bunnings.co.nz",
+            "Street__c": "15 Home Place, Mairangi Bay",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 632,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPCOUNTIES"
+            },
+            "Name": "BP Connect Counties",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "Corner Tobin & Edinburgh Streets, Pukekohe",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 2120,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPBOMBAY"
+            },
+            "Name": "BP Connect Bombay",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "SH1 Bombay",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 2675,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPGEYSER"
+            },
+            "Name": "BP Connect Geyser",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "Corner Froude Street and Fenton Street",
+            "City__c": "Rotorua",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 3010,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPTOKOROA"
+            },
+            "Name": "BP Connect Tokoroa",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "32 State Highway 1",
+            "City__c": "",
+            "State__c": "Tokoroa",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 3491,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@VTNZSATURN"
+            },
+            "Name": "VTNZ - Saturn Branch",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "https://vtnz.co.nz",
+            "Street__c": "3-5 Saturn Pl, Rosedale",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 632,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@NZTA"
+            },
+            "Name": "NZTA",
+            "Type__c": "Government Agency",
+            "Website__c": "https://www.nzta.govt.nz",
+            "Street__c": "",
+            "City__c": "",
+            "State__c": "",
+            "Country__c": "",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@CARTERTYRE"
+            },
+            "Name": "Carter Tyre Service Limited",
+            "Type__c": "Store",
+            "Website__c": "https://www.carterstyres.co.nz",
+            "Street__c": "3 Saturn Place, North Harbour",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPFANSHAWE"
+            },
+            "Name": "BP Connect Fanshawe St",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "104 Fanshawe St",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 1010,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPCONVENTRY"
+            },
+            "Name": "BP Connect Conventry",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "127 Wairu Road Takapuna",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 627,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BPTARGET"
+            },
+            "Name": "BP 2GO Target Road",
+            "Type__c": "Gas Station",
+            "Website__c": "",
+            "Street__c": "8B Target Road Glenfield",
+            "City__c": "Auckland",
+            "State__c": "",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": "",
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@EXACTKEY"
+            },
+            "Name": "Exact Key Service",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "http://www.carkeys.co.nz",
+            "Street__c": "51 Lower Level, William Pickering Drive",
+            "City__c": "Auckland",
+            "State__c": "Albany",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 632,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@BEAUREPAIRES"
+            },
+            "Name": "Beaurepaires",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "https://beaurepaires.co.nz",
+            "Street__c": "126 Great North Road",
+            "City__c": "Auckland",
+            "State__c": "Grey Lynn",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 2130,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@ADAMSMOTOR"
+            },
+            "Name": "Adams Motor Services Ltd",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "",
+            "Street__c": "7/15 Piermark Drive",
+            "City__c": "Auckland",
+            "State__c": "Albany",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 632,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@CONTINENTALCARS"
+            },
+            "Name": "Continental Cars",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "https://www.continentalcars.co.nz",
+            "Street__c": "9-11 Mauranui Ave",
+            "City__c": "Auckland",
+            "State__c": "New Market",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 1546,
+            "CurrencyISOCode": "NZD"
+        },
+        {
+            "attributes": {
+                "type":"Business_Mechanic__c",
+                "referenceId": "@MCCARTHYMOTORS"
+            },
+            "Name": "Mc Carthy Motors",
+            "Type__c": "Vehicle Shop",
+            "Website__c": "http://www.mccarthymotors.co.nz",
+            "Street__c": "7/15 Piermark Drive",
+            "City__c": "Auckland",
+            "State__c": "Albany",
+            "Country__c": "New Zealand",
+            "Postal_Code__c": 632,
+            "CurrencyISOCode": "NZD"
+        }
+    ]
+}

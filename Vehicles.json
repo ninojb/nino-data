@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@PEUGEOT"
+            },
+            "Dealer2__c": "@SHOREPRESTIGE",
+            "Name": "Peugeot 308 XS 2011",
+            "CurrencyISOCode": "NZD",
+            "Key_Cutting_Code__c": "HCA1915",
+            "Key_Security_PIN__c": "JEVP",
+            "Remote__c": "433FSK 0523 type",
+            "VIN__c": "XXXXX",
+            "Purchased_Date__c": "2015-11-22",
+            "Initial_Odometer__c": 64113,
+            "Engine_Number__c": "10FHCJ09701947",
+            "Make__c": "Puegeot",
+            "License_Type__c": "XXXXXX",
+            "Owned__c": "TRUE",
+            "Type__c": "Car",
+            "Year__c": 2011,
+            "WOF_Due_Date__c": "2020-11-01",
+            "Registration_Due_Date__c": "2021-01-01",
+            "Model__c": "@PEUGEOTXS"
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@HONDA"
+            },
+            "Dealer2__c": "",
+            "Name": "Honda Civic 1984",
+            "CurrencyISOCode": "NZD",
+            "Key_Cutting_Code__c": "",
+            "Key_Security_PIN__c": "",
+            "Remote__c": "",
+            "VIN__c": "",
+            "Purchased_Date__c": "",
+            "Initial_Odometer__c": "",
+            "Engine_Number__c": "",
+            "Make__c": "Honda",
+            "License_Type__c": "",
+            "Owned__c": "FALSE",
+            "Type__c": "Car",
+            "Year__c": 1984,
+            "WOF_Due_Date__c": "",
+            "Registration_Due_Date__c": "",
+            "Model__c": "@HONDALX"
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@NISSAN"
+            },
+            "Dealer2__c": "@MOTOKA",
+            "Name": "Nissan Caravan 2011",
+            "CurrencyISOCode": "NZD",
+            "Key_Cutting_Code__c": "",
+            "Key_Security_PIN__c": "",
+            "Remote__c": "",
+            "VIN__c": "XXXXX",
+            "Purchased_Date__c": "2018-08-27",
+            "Initial_Odometer__c": 119669,
+            "Engine_Number__c": "",
+            "Make__c": "Nissan",
+            "License_Type__c": "XXXXXX",
+            "Owned__c": "TRUE",
+            "Type__c": "Van",
+            "Year__c": 2011,
+            "WOF_Due_Date__c": "2020-09-01",
+            "Registration_Due_Date__c": "2021-01-27",
+            "Model__c": "@NISSANCARAVAN"
+        }
+    ]
+}

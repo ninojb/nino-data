@@ -1,0 +1,55 @@
+{
+	"records": [
+		{
+			"attributes": {
+				"type": "Vehicle_Model__c",
+				"referenceId": "@PEUGEOTXS"
+			},
+			"Name": "PUEGEOT XS",
+			"Body_Style__c": "Hatch",
+			"Drive_Type__c": "",
+			"Engine__c": "1600cc",
+			"Fuel_Type__c": "Petrol",
+			"Make__c": "Puegeot",
+			"Model__c": "XS",
+			"Sub_Model__c": "",
+			"Tank_Capacity__c": "",
+			"Transmission__c": "Automatic",
+			"Year__c": 2011
+		},
+		{
+			"attributes": {
+				"type": "Vehicle_Model__c",
+				"referenceId": "@HONDALX"
+			},
+			"Name": "HONDA CIVIC LX",
+			"Body_Style__c": "Sedan",
+			"Drive_Type__c": "",
+			"Engine__c": "",
+			"Fuel_Type__c": "Petrol",
+			"Make__c": "Honda",
+			"Model__c": "LX",
+			"Sub_Model__c": "",
+			"Tank_Capacity__c": "",
+			"Transmission__c": "Automatic",
+			"Year__c": 1984
+		},
+		{
+			"attributes": {
+				"type": "Vehicle_Model__c",
+				"referenceId": "@NISSANCARAVAN"
+			},
+			"Name": "NISSAN CARAVAN",
+			"Body_Style__c": "Van - High Roof",
+			"Drive_Type__c": "",
+			"Engine__c": "2480cc",
+			"Fuel_Type__c": "Petrol",
+			"Make__c": "Nissan",
+			"Model__c": "CARAVAN",
+			"Sub_Model__c": "",
+			"Tank_Capacity__c": "",
+			"Transmission__c": "Automatic",
+			"Year__c": 2011
+		}
+	]
+}

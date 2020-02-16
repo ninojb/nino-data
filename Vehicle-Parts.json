@@ -1,0 +1,577 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@ACSYSTEM"
+            },
+            "Name": "A/C Systems",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@AIRFILTER"
+            },
+            "Name": "Air Filter",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BATTERY"
+            },
+            "Name": "Battery",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 36,
+            "Remind_By_Distance__c": 36000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BELTS"
+            },
+            "Name": "Belts",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BODY"
+            },
+            "Name": "Body/Chassis",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BRAKFLUID"
+            },
+            "Name": "Brake Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BRAKESFRONT"
+            },
+            "Name": "Brakes (Front)",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 15,
+            "Remind_By_Distance__c": 15000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@BRAKESREAR"
+            },
+            "Name": "Brakes (Rear)",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 15,
+            "Remind_By_Distance__c": 15000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@CABINAIRFILTER"
+            },
+            "Name": "Cabin Air Filter",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@CARWASH"
+            },
+            "Name": "Car Wash",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 1,
+            "Remind_By_Distance__c": 1000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@CLUTHHYDROFLUID"
+            },
+            "Name": "Clutch Hydraulic Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@COOLINGSYSTEM"
+            },
+            "Name": "Cooling System",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@DIESELEXHAUSTFLUID"
+            },
+            "Name": "Diesel Exhaust Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@DIFFFLUID"
+            },
+            "Name": "Differential Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 30,
+            "Remind_By_Distance__c": 30000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@DOORS"
+            },
+            "Name": "Doors",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@ENGINEANTIFREEZE"
+            },
+            "Name": "Engine Antifreeze",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@ENGINEOIL"
+            },
+            "Name": "Engine Oil",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@EXHAUST"
+            },
+            "Name": "Exhaust System",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@FUELFILTER"
+            },
+            "Name": "Fuel Filter",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@FUELLINES"
+            },
+            "Name": "Fuel Lines & Pipes",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@FUELPUMP"
+            },
+            "Name": "Fuel Pump",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@FUELSYSTEM"
+            },
+            "Name": "Fuel System",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@MIRRORS"
+            },
+            "Name": "Glass/Mirrors",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@HEATSYSTEM"
+            },
+            "Name": "Heating System",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@HORNS"
+            },
+            "Name": "Horns",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@INSPECT"
+            },
+            "Name": "Inspection",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@INSURANCE"
+            },
+            "Name": "Insurance",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@LIGHTS"
+            },
+            "Name": "Lights",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@LUBRICATECHAIN"
+            },
+            "Name": "Lubricate Chain",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 1,
+            "Remind_By_Distance__c": 500,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYRES"
+            },
+            "Name": "New Tyres",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 24000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@OILFILTER"
+            },
+            "Name": "Oil Filter",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@POWERSTEERING"
+            },
+            "Name": "Power Steering Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@RADIATOR"
+            },
+            "Name": "Radiator",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 10,
+            "Remind_By_Distance__c": 10000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@REGISTRATION"
+            },
+            "Name": "Registration",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@RUSTMODULE"
+            },
+            "Name": "Rust Module",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@SAFETYDEVICES"
+            },
+            "Name": "Safety Devices",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@SPARKPLUGS"
+            },
+            "Name": "Spark Plugs",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@NGKIRIDIUMSPARKPLUGS"
+            },
+            "Name": "NGK Iridium Spark Plugs",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": "",
+            "Remind_By_Distance__c": 100000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@STEERINGSYSTEM"
+            },
+            "Name": "Steering System",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@SUSPENSIONSYSTEM"
+            },
+            "Name": "Suspension System",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TIMINGBELT"
+            },
+            "Name": "Timing Belt",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 75,
+            "Remind_By_Distance__c": 75000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYREA"
+            },
+            "Name": "Tyre A",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYREB"
+            },
+            "Name": "Tyre B",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYREC"
+            },
+            "Name": "Tyre C",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYRED"
+            },
+            "Name": "Tyre D",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYREPRESSURE"
+            },
+            "Name": "Tyre Pressure",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TYREROTATION"
+            },
+            "Name": "Tyre Rotation",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@TRANSMISSIONFLUID"
+            },
+            "Name": "Transmission Fluid",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@WATERPUMP"
+            },
+            "referenceId": "@WATERPUMP",
+            "Name": "Water Pump",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 75,
+            "Remind_By_Distance__c": 75000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@WHEELALIGN"
+            },
+            "Name": "Wheel Alignment",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 12,
+            "Remind_By_Distance__c": 12000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@WINDSHIELDWASHER"
+            },
+            "Name": "Windshield Washer Fluid",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 3,
+            "Remind_By_Distance__c": 3000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "@WINDSHIELDWIPER"
+            },
+            "Name": "Windshield Wipers",
+            "Remind_By__c": "Distance",
+            "Remind_By_Months__c": 6,
+            "Remind_By_Distance__c": 6000,
+            "Notes__c": ""
+        }
+    ]
+}
