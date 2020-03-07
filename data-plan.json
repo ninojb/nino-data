@@ -1,20 +1,26 @@
 [
     {
-        "sobject": "Vehicle_Model__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["Vehicle-Model.json"]
-    },
-	{
-        "sobject": "Vehicle_Part__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["Vehicle-Parts.json"]
+        "sobject": "CurrencyType",
+        "saveRefs": false,
+        "resolveRefs": false,
+        "files": ["CurrencyType.json"]
     },
     {
+        "sobject": "Vehicle_Model__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["Vehicle-Model.json"]
+    },
+    {
+        "sobject": "Vehicle_Part__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["Vehicle-Parts.json"]
+    },
+	{
         "sobject": "Business_Mechanic__c",
         "saveRefs": true,
-        "resolveRefs": true,
+        "resolveRefs": false,
         "files": ["Business-Mechanic.json"]
     },
     {

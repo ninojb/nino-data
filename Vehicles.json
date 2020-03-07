@@ -2,8 +2,8 @@
     "records": [
         {
             "attributes": {
-                "type":"Vehicle_Part__c",
-                "referenceId": "@PEUGEOT"
+                "type":"Vehicle__c",
+                "referenceId": "PEUGEOT"
             },
             "Dealer2__c": "@SHOREPRESTIGE",
             "Name": "Peugeot 308 XS 2011",
@@ -26,8 +26,8 @@
         },
         {
             "attributes": {
-                "type":"Vehicle_Part__c",
-                "referenceId": "@HONDA"
+                "type":"Vehicle__c",
+                "referenceId": "HONDA"
             },
             "Dealer2__c": "",
             "Name": "Honda Civic 1984",
@@ -50,8 +50,8 @@
         },
         {
             "attributes": {
-                "type":"Vehicle_Part__c",
-                "referenceId": "@NISSAN"
+                "type":"Vehicle__c",
+                "referenceId": "NISSAN"
             },
             "Dealer2__c": "@MOTOKA",
             "Name": "Nissan Caravan 2011",

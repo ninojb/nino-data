@@ -3,7 +3,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@MITRE10POLAND"
+                "referenceId": "MITRE10POLAND"
             },
             "Name": "Mitre10 Poland Rd",
             "Type__c": "Store",
@@ -18,7 +18,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@VANTAGERV"
+                "referenceId": "VANTAGERV"
             },
             "Name": "Vantage RV",
             "Type__c": "Store",
@@ -33,7 +33,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@SULCO"
+                "referenceId": "SULCO"
             },
             "Name": "Sulco",
             "Type__c": "Store",
@@ -48,7 +48,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BINDONS"
+                "referenceId": "BINDONS"
             },
             "Name": "Bindons",
             "Type__c": "Store",
@@ -63,7 +63,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@ALIEXPRESS"
+                "referenceId": "ALIEXPRESS"
             },
             "Name": "AliExpress",
             "Type__c": "Store",
@@ -78,7 +78,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@SCA"
+                "referenceId": "SCA"
             },
             "Name": "Super Cheap Auto Wairu Park",
             "Type__c": "Store",
@@ -93,7 +93,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@MOTOKA"
+                "referenceId": "MOTOKA"
             },
             "Name": "Motoka",
             "Type__c": "Vehicle Shop",
@@ -108,7 +108,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@SHOREPRESTIGE"
+                "referenceId": "SHOREPRESTIGE"
             },
             "Name": "Shore Prestige",
             "Type__c": "Vehicle Shop",
@@ -123,7 +123,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPTAUPO"
+                "referenceId": "BPTAUPO"
             },
             "Name": "BP Connect Taupo",
             "Type__c": "Gas Station",
@@ -138,7 +138,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@HEARTLAND"
+                "referenceId": "HEARTLAND"
             },
             "Name": "Heartland Bank Ltd",
             "Type__c": "Insurer",
@@ -153,7 +153,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@JUST4X4"
+                "referenceId": "JUST4X4"
             },
             "Name": "Just 4x4's",
             "Type__c": "Store",
@@ -168,7 +168,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPCARYLE"
+                "referenceId": "BPCARYLE"
             },
             "Name": "BP 2GO Caryle",
             "Type__c": "Gas Station",
@@ -183,7 +183,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@REPCO"
+                "referenceId": "REPCO"
             },
             "Name": "Repco",
             "Type__c": "Store",
@@ -198,7 +198,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPMILLWATER"
+                "referenceId": "BPMILLWATER"
             },
             "Name": "BP Connect Millwater",
             "Type__c": "Gas Station",
@@ -213,7 +213,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPBOULEVARD"
+                "referenceId": "BPBOULEVARD"
             },
             "Name": "BP Connect Boulevard",
             "Type__c": "Gas Station",
@@ -228,7 +228,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BUNNINGSNS"
+                "referenceId": "BUNNINGSNS"
             },
             "Name": "Bunnings Warehouse North Shore",
             "Type__c": "Store",
@@ -243,7 +243,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPCOUNTIES"
+                "referenceId": "BPCOUNTIES"
             },
             "Name": "BP Connect Counties",
             "Type__c": "Gas Station",
@@ -258,7 +258,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPBOMBAY"
+                "referenceId": "BPBOMBAY"
             },
             "Name": "BP Connect Bombay",
             "Type__c": "Gas Station",
@@ -273,7 +273,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPGEYSER"
+                "referenceId": "BPGEYSER"
             },
             "Name": "BP Connect Geyser",
             "Type__c": "Gas Station",
@@ -288,7 +288,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPTOKOROA"
+                "referenceId": "BPTOKOROA"
             },
             "Name": "BP Connect Tokoroa",
             "Type__c": "Gas Station",
@@ -303,7 +303,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@VTNZSATURN"
+                "referenceId": "VTNZSATURN"
             },
             "Name": "VTNZ - Saturn Branch",
             "Type__c": "Vehicle Shop",
@@ -318,7 +318,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@NZTA"
+                "referenceId": "NZTA"
             },
             "Name": "NZTA",
             "Type__c": "Government Agency",
@@ -333,7 +333,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@CARTERTYRE"
+                "referenceId": "CARTERTYRE"
             },
             "Name": "Carter Tyre Service Limited",
             "Type__c": "Store",
@@ -348,7 +348,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPFANSHAWE"
+                "referenceId": "BPFANSHAWE"
             },
             "Name": "BP Connect Fanshawe St",
             "Type__c": "Gas Station",
@@ -363,7 +363,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPCONVENTRY"
+                "referenceId": "BPCONVENTRY"
             },
             "Name": "BP Connect Conventry",
             "Type__c": "Gas Station",
@@ -378,7 +378,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BPTARGET"
+                "referenceId": "BPTARGET"
             },
             "Name": "BP 2GO Target Road",
             "Type__c": "Gas Station",
@@ -393,7 +393,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@EXACTKEY"
+                "referenceId": "EXACTKEY"
             },
             "Name": "Exact Key Service",
             "Type__c": "Vehicle Shop",
@@ -408,7 +408,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@BEAUREPAIRES"
+                "referenceId": "BEAUREPAIRES"
             },
             "Name": "Beaurepaires",
             "Type__c": "Vehicle Shop",
@@ -423,7 +423,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@ADAMSMOTOR"
+                "referenceId": "ADAMSMOTOR"
             },
             "Name": "Adams Motor Services Ltd",
             "Type__c": "Vehicle Shop",
@@ -438,7 +438,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@CONTINENTALCARS"
+                "referenceId": "CONTINENTALCARS"
             },
             "Name": "Continental Cars",
             "Type__c": "Vehicle Shop",
@@ -453,7 +453,7 @@
         {
             "attributes": {
                 "type":"Business_Mechanic__c",
-                "referenceId": "@MCCARTHYMOTORS"
+                "referenceId": "MCCARTHYMOTORS"
             },
             "Name": "Mc Carthy Motors",
             "Type__c": "Vehicle Shop",

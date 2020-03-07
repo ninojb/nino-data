@@ -3,7 +3,7 @@
 		{
 			"attributes": {
 				"type": "Vehicle_Model__c",
-				"referenceId": "@PEUGEOTXS"
+				"referenceId": "PEUGEOTXS"
 			},
 			"Name": "PUEGEOT XS",
 			"Body_Style__c": "Hatch",
@@ -20,7 +20,7 @@
 		{
 			"attributes": {
 				"type": "Vehicle_Model__c",
-				"referenceId": "@HONDALX"
+				"referenceId": "HONDALX"
 			},
 			"Name": "HONDA CIVIC LX",
 			"Body_Style__c": "Sedan",
@@ -37,7 +37,7 @@
 		{
 			"attributes": {
 				"type": "Vehicle_Model__c",
-				"referenceId": "@NISSANCARAVAN"
+				"referenceId": "NISSANCARAVAN"
 			},
 			"Name": "NISSAN CARAVAN",
 			"Body_Style__c": "Van - High Roof",
