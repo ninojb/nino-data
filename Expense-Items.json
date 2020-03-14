@@ -2,7 +2,8 @@
     "records": [
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE1"
             },
             "Expense__c": "@PEUGEOTSERVICE1",
             "Amount__c": 0,
@@ -11,7 +12,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE2"
             },
             "Expense__c": "@PEUGEOTSERVICE1",
             "Amount__c": 0,
@@ -20,7 +22,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE3"
             },
             "Expense__c": "@PEUGEOTSERVICE1",
             "Amount__c": 0,
@@ -29,7 +32,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE4"
             },
             "Expense__c": "@PEUGEOTSERVICE2",
             "Amount__c": 0,
@@ -38,7 +42,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE5"
             },
             "Expense__c": "@PEUGEOTSERVICE3",
             "Amount__c": 0,
@@ -47,16 +52,18 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE6"
             },
             "Expense__c": "@PEUGEOTSERVICE3",
             "Amount__c": 0,
-            "Parts__c": "@REVERSINGLIGHT",
+            "Parts__c": "@LIGHTS",
             "Notes__c": ""
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE7"
             },
             "Expense__c": "@PEUGEOTSERVICE4",
             "Amount__c": 0,
@@ -65,7 +72,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE8"
             },
             "Expense__c": "@PEUGEOTSERVICE6",
             "Amount__c": 0,
@@ -74,7 +82,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE9"
             },
             "Expense__c": "@PEUGEOTSERVICE19",
             "Amount__c": 0,
@@ -83,7 +92,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE10"
             },
             "Expense__c": "@PEUGEOTSERVICE19",
             "Amount__c": 0,
@@ -92,16 +102,18 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE11"
             },
             "Expense__c": "@PEUGEOTSERVICE21",
             "Amount__c": 0,
-            "Parts__c": "@PEUGEOTSERVICE21",
+            "Parts__c": "@INSPECT",
             "Notes__c": ""
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE12"
             },
             "Expense__c": "@PEUGEOTSERVICE22",
             "Amount__c": 0,
@@ -110,7 +122,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE13"
             },
             "Expense__c": "@PEUGEOTSERVICE23",
             "Amount__c": 0,
@@ -119,7 +132,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE14"
             },
             "Expense__c": "@PEUGEOTSERVICE24",
             "Amount__c": "",
@@ -128,7 +142,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE15"
             },
             "Expense__c": "@PEUGEOTSERVICE25",
             "Amount__c": "",
@@ -137,7 +152,8 @@
         },
         {
             "attributes": {
-                "type": "Expense_Line_Item__c"
+                "type": "Expense_Line_Item__c",
+                "referenceId": "EXPENSELINE16"
             },
             "Expense__c": "@NISSANSERVICE6",
             "Amount__c": "",

@@ -37,7 +37,7 @@
     },
 	{
         "sobject": "Expense_Line_Item__c",
-        "saveRefs": true,
+        "saveRefs": false,
         "resolveRefs": true,
         "files": ["Expense-Items.json"]
     }

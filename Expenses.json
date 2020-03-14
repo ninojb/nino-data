@@ -181,7 +181,10 @@
             "Notes__c": "Rear Mirror Base"
         },
         {
-            "referenceId": "NISSANSERVICE7",
+            "attributes": {
+                "type":"Expense__c",
+                "referenceId": "NISSANSERVICE7"
+            },
             "Vehicle__c": "@NISSAN",
             "Business_Mechanic__c": "@HEARTLAND",
             "Type__c": "Service",

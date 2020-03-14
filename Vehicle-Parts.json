@@ -87,6 +87,27 @@
             "Remind_By_Months__c": 15,
             "Remind_By_Distance__c": 15000,
             "Notes__c": ""
+        },{
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "BRAKEROTORFRONT"
+            },
+            "Name": "Brake Rotors (Front)",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 80000,
+            "Notes__c": ""
+        },
+        {
+            "attributes": {
+                "type":"Vehicle_Part__c",
+                "referenceId": "BRAKEROTORREAR"
+            },
+            "Name": "Brake Rotora (Rear)",
+            "Remind_By__c": "Month",
+            "Remind_By_Months__c": 24,
+            "Remind_By_Distance__c": 80000,
+            "Notes__c": ""
         },
         {
             "attributes": {
