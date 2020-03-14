@@ -4,7 +4,7 @@ Schema repository. The aim of this repo is to have a logical place to store all 
 
 # Instructions on adding this repo to the project
 
-- **Clone this repo in a folder under the project**
+- **Clone this repo in the root directory of the project**
 
 - **Add the below as part of .forceignore**
 
